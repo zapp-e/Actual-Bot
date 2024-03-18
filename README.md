@@ -1,3 +1,3 @@
-Finally finished a real bot
+_**Finally finished a real bot**_
 
 https://discordjs.guide/preparations/
